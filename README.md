@@ -6,7 +6,7 @@
 />
 Me chamo George Lucas e sou um desenvolvedor Front End, atualmente atuando como Freelancer,<br> onde utilizo minhas habilidades para agradar e dar suporte aos meus clientes.
 <br>
-Aqui está meu Portfólio para que possam ver meus principais projetos: Segue o Link.
+Aqui está meu Portfólio para que possam ver meus principais projetos:
 <br>
 Segue o Link  :point_right: https://georgelucasglz.github.io/My-Porfolio-George-Lucas/
 <br>
