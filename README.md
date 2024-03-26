@@ -21,7 +21,7 @@ Minhas Redes Sociais:
 Minhas Habilidades:
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,node,git,github)](https://skillicons.dev)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLucasGLz)](https://github.com/anuraghazra/github-readme-stats)
