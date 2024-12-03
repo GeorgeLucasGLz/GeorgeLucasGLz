@@ -13,7 +13,7 @@ Confira  :point_right: https://georgelucasglz.github.io/My-Porfolio-George-Lucas
 <br>
 Minhas Redes Sociais:
 <br>
-<a href= "https://www.instagram.com/george_lucaszz/"><img width='30px' src="https://github.com/dheereshagrwal/colored-icons/raw/master/public/icons/instagram/instagram.svg"></img></a>
+<a href= "https://www.instagram.com/george_lucaszz/"><img width='30px' src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg"></img></a>
 <a href= "https://www.linkedin.com/in/george-matos/"><img width='30px' src="https://cdn-icons-png.flaticon.com/256/174/174857.png"></img></a>
 <br>
 <br>
