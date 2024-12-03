@@ -4,11 +4,11 @@
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.4/src/app/ci.min.css"
 />
-Me chamo George Lucas e sou um desenvolvedor Front End, atualmente atuando como Freelancer,<br> onde utilizo minhas habilidades para agradar e dar suporte aos meus clientes.
+Sou um Desenvolvedor Front-End apaixonado por criar experiências digitais incríveis. Atualmente, atuo como Freelancer, utilizando minhas habilidades para atender às necessidades dos clientes e oferecer suporte personalizado para cada projeto.
 <br>
-Aqui está meu Portfólio para que possam ver meus principais projetos:
+🚀 Confira meu portfólio e veja meus principais trabalhos:
 <br>
-Segue o Link  :point_right: https://georgelucasglz.github.io/My-Porfolio-George-Lucas/
+Confira  :point_right: https://georgelucasglz.github.io/My-Porfolio-George-Lucas/
 <br>
 <br>
 Minhas Redes Sociais:
